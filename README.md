@@ -1,3 +1,3 @@
 # portfolio.
- [ปก] (ปก.md)
- [Sop] (Sop.md)
+ [ปก](ปก.md)
+ [Sop](Sop.md)
